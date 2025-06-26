@@ -2,17 +2,19 @@
 
 **Full Stack Developer | MERN Enthusiast | Explorer**
 
+---
 
-🚀 Fullstack Developer | BCA Student | AI/ML Enthusiast  
-💡 I love turning ideas into reality through code and creativity.  
-🧠 Focused on writing clean, efficient code and building real-world projects.   
-🤝 Passionate about collaboration, community, and continuous learning.
-✉️ how to reach : @abdulkalam.buss@gmail.com
+- 🚀 full-stack Developer | BCA'27
+- 💡 I love turning ideas into reality through code and creativity.
+- 🧠 Focused on writing clean, efficient code and building real-world projects.
+- 🤝 Passionate about collaboration, community, and continuous learning.
+- ✉️ how to reach : abdulkalam.buss@gmail.com
+
 ---
 
 ### 🏆 Top Skills
 
-<p align="center">
+<p align="start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48" style="background:#20232a; padding:8px; border-radius:12px; margin:6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="background:#222; padding:8px; border-radius:12px; margin:6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="background:#fff; padding:8px; border-radius:12px; margin:6px;"/>
@@ -40,7 +42,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="start">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdulkalam-011&show_icons=true&theme=radical" alt="Abdul Kalam's GitHub Stats" />
 </div>
 
