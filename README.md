@@ -3,10 +3,11 @@
 **Full Stack Developer | MERN Enthusiast | Explorer**
 
 
-### 🚀 About Me
-
-I'm a passionate **Full Stack Web Developer** specializing in the MERN stack. I love building robust web applications with a focus on clean design and seamless user experience. My journey in tech is driven by continuous learning and a curiosity to explore new places, both digitally and in real life!
-
+🚀 Fullstack Developer | BCA Student | AI/ML Enthusiast  
+💡 I love turning ideas into reality through code and creativity.  
+🧠 Focused on writing clean, efficient code and building real-world projects.   
+🤝 Passionate about collaboration, community, and continuous learning.
+✉️ how to reach : @abdulkalam.buss@gmail.com
 ---
 
 ### 🏆 Top Skills
