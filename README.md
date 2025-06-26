@@ -26,8 +26,7 @@ I'm a passionate **Full Stack Web Developer** specializing in the MERN stack. I 
 
 ### 🌟 Featured Project
 
-#### 🛒 E-Commerce Platform (React)
-A full-featured e-commerce platform built with React, offering a smooth shopping experience and scalable architecture.
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdulkalam-011)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
