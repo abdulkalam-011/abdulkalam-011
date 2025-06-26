@@ -2,7 +2,6 @@
 
 **Full Stack Developer | MERN Enthusiast | Explorer**
 
----
 
 ### 🚀 About Me
 
@@ -23,7 +22,6 @@ I'm a passionate **Full Stack Web Developer** specializing in the MERN stack. I 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" style="background:#f05032; padding:8px; border-radius:12px; margin:6px;"/>
 </p>
 
----
 
 ### 🌟 Featured Project
 
@@ -46,7 +44,7 @@ A full-featured e-commerce platform built with React, offering a smooth shopping
   <img src="https://github-readme-stats.vercel.app/api?username=abdulkalam-011&show_icons=true&theme=radical" alt="Abdul Kalam's GitHub Stats" />
 </div>
 
----
+
 
 ### 🏅 Top Used Languages
 
